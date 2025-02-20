@@ -1,0 +1,6 @@
+pyrealsense2=>2.54.2.5684
+opencv-python>=4.7.0.72
+ultralytics>=8.3.56
+numpy=>1.24.4
+#torchvision==0.16.1
+#torch==2.1.0a0+41361538.nv23.6

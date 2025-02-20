@@ -1,0 +1,9 @@
+{
+    "CONFID_THRESHOLD": 60,
+    "iou_threshold": 40,
+    "frame_height_record" : 480,
+    "frame_width_record" : 1280,
+    "model": "models/best_overhead.pt",
+    "output_video_path" : "output_videos/depth.mp4",
+    "Object_sort" : "tracking/bytetrack.yaml"
+}
