@@ -93,6 +93,9 @@ Reduce the timeout values in queue.put() and queue.get() calls so threads don’
 ## Contributing
 Contributions are welcome! If you find bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
+## Note
+The models folder the file in there needs to be replace with your file
+
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
