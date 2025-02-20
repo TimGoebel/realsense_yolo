@@ -48,7 +48,7 @@ pip install pyrealsense2 opencv-python ultralytics numpy
 The `config_m.json` file should include settings for the model path, confidence threshold, output video path, and frame dimensions. An example configuration file:
 ```json
 {
-  "model": "path/to/your/yolov8.weights",
+  "model": "path/to/model/yolov11.weights",
   "CONFID_THRESHOLD": 50,
   "output_video_path": "output.mp4",
   "frame_width_record": 1280,
