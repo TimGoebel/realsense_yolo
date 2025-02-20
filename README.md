@@ -1,4 +1,4 @@
-# RealSense YOLO Depth Filtering Pipeline
+# RealSense YOLO Depth Filtering Pipeline 📷
 
 This project implements a RealSense-based pipeline that captures frames from an Intel RealSense camera, applies depth filtering, and performs YOLO-based object detection. The application leverages asynchronous processing (using Python's threading and queue modules) to separate frame capture from heavy inference tasks, improving performance and making troubleshooting easier.
 
